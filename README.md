@@ -1,0 +1,2 @@
+# hpnotebook_learning_log
+惠普笔记本虚拟机系统Ubuntu麒麟版本，学习测试Python编程从入门到实践
